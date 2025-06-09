@@ -1,0 +1,1063 @@
+{
+  "items": [
+    {
+      "item_id": 45104253,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45104253/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 300,
+      "rent": 35,
+      "size_m2": 18,
+      "공급면적": {
+        "m2": 18,
+        "p": "5.4"
+      },
+      "전용면적": {
+        "m2": 18,
+        "p": "5.4"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "2",
+      "floor_string": "2",
+      "building_floor": "3",
+      "title": "역1분 훌륭한 실내",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.5017615484672,
+        "lng": 126.883575931161
+      },
+      "location": {
+        "lat": 37.5017615484672,
+        "lng": 126.883575931161
+      },
+      "manage_cost": "5",
+      "reg_date": "2025-06-07T13:08:13+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 45015893,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45015893/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 1000,
+      "rent": 43,
+      "size_m2": 19,
+      "공급면적": {
+        "m2": 19,
+        "p": "5.7"
+      },
+      "전용면적": {
+        "m2": 19,
+        "p": "5.7"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "4",
+      "floor_string": "4",
+      "building_floor": "4",
+      "title": "고대병원인근 컨디션 최상 가성비 복층분리형원룸",
+      "is_first_movein": null,
+      "room_type": "03",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.4888088555608,
+        "lng": 126.883478780115
+      },
+      "location": {
+        "lat": 37.4888088555608,
+        "lng": 126.883478780115
+      },
+      "manage_cost": "9",
+      "reg_date": "2025-05-30T14:15:55+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44930662,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44930662/10077365.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 2000,
+      "rent": 60,
+      "size_m2": 23.1,
+      "공급면적": {
+        "m2": 23.1,
+        "p": "7"
+      },
+      "전용면적": {
+        "m2": 23.1,
+        "p": "7"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "4",
+      "title": "넓은방크기.풀옵션.융자없는집.",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.493532776001,
+        "lng": 126.88424343755
+      },
+      "location": {
+        "lat": 37.493532776001,
+        "lng": 126.88424343755
+      },
+      "manage_cost": "10",
+      "reg_date": "2025-05-30T12:27:00+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 45113434,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45113434/10136653.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 500,
+      "rent": 40,
+      "size_m2": 18,
+      "공급면적": {
+        "m2": 18,
+        "p": "5.4"
+      },
+      "전용면적": {
+        "m2": 18,
+        "p": "5.4"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "4",
+      "title": "구로역도보,풀옵션,깔끔한방,주차가능,즉시입주",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.499519393056,
+        "lng": 126.8814887391
+      },
+      "location": {
+        "lat": 37.499519393056,
+        "lng": 126.8814887391
+      },
+      "manage_cost": "6",
+      "reg_date": "2025-06-09T09:31:40+09:00",
+      "is_new": true,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 44337432,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44337432/9700441.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 500,
+      "rent": 45,
+      "size_m2": 19.8,
+      "공급면적": {
+        "m2": 19.8,
+        "p": "6"
+      },
+      "전용면적": {
+        "m2": 19.8,
+        "p": "6"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "반지하",
+      "floor_string": "반지하",
+      "building_floor": "3",
+      "title": "주방분리형원룸, 즉시입주 가능, 주차가능, CCTV, 가전제품 완비",
+      "is_first_movein": null,
+      "room_type": "02",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.4941120239965,
+        "lng": 126.903489442719
+      },
+      "location": {
+        "lat": 37.4941120239965,
+        "lng": 126.903489442719
+      },
+      "manage_cost": "0",
+      "reg_date": "2025-05-07T13:56:21+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "영등포구",
+        "local3": "대림동",
+        "local4": "",
+        "fullText": "서울시 영등포구 대림동",
+        "localText": "영등포구 대림동"
+      },
+      "address": "영등포구 대림동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 영등포구 대림동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 44845964,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44845964/8044677.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 1000,
+      "rent": 55,
+      "size_m2": 23.1,
+      "공급면적": {
+        "m2": 23.1,
+        "p": "7"
+      },
+      "전용면적": {
+        "m2": 23.1,
+        "p": "7"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "3",
+      "floor_string": "3",
+      "building_floor": "8",
+      "title": "즉시 입주 가능한 오픈형 원룸, 주차 가능, 옵션 완비",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.4912062003957,
+        "lng": 126.895153011728
+      },
+      "location": {
+        "lat": 37.4912062003957,
+        "lng": 126.895153011728
+      },
+      "manage_cost": "8",
+      "reg_date": "2025-05-15T12:48:44+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 45085016,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45085016/9992715.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 2000,
+      "rent": 55,
+      "size_m2": 21,
+      "공급면적": {
+        "m2": 21,
+        "p": "6.4"
+      },
+      "전용면적": {
+        "m2": 21,
+        "p": "6.4"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "3",
+      "title": "화이트톤 넓은원룸 분리형 꿀방",
+      "is_first_movein": null,
+      "room_type": "02",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.498987733185,
+        "lng": 126.89886239027
+      },
+      "location": {
+        "lat": 37.498987733185,
+        "lng": 126.89886239027
+      },
+      "manage_cost": "6",
+      "reg_date": "2025-06-05T15:19:56+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "영등포구",
+        "local3": "대림동",
+        "local4": "",
+        "fullText": "서울시 영등포구 대림동",
+        "localText": "영등포구 대림동"
+      },
+      "address": "영등포구 대림동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 영등포구 대림동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 45064834,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45064834/10121722.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 500,
+      "rent": 45,
+      "size_m2": 17,
+      "공급면적": {
+        "m2": 17,
+        "p": "5.1"
+      },
+      "전용면적": {
+        "m2": 17,
+        "p": "5.1"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "3",
+      "title": "신풍역 역세권, 전입신고 가능, 옵션있음, 가성비 좋은원룸",
+      "is_first_movein": null,
+      "room_type": "02",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.496572800745,
+        "lng": 126.90342554974
+      },
+      "location": {
+        "lat": 37.496572800745,
+        "lng": 126.90342554974
+      },
+      "manage_cost": "8",
+      "reg_date": "2025-06-04T11:03:02+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "영등포구",
+        "local3": "대림동",
+        "local4": "",
+        "fullText": "서울시 영등포구 대림동",
+        "localText": "영등포구 대림동"
+      },
+      "address": "영등포구 대림동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 영등포구 대림동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 44965148,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44965148/1.jpg",
+      "sales_type": "전세",
+      "sales_title": "전세",
+      "deposit": 11000,
+      "rent": 0,
+      "size_m2": 21.5,
+      "공급면적": {
+        "m2": 21.5,
+        "p": "6.5"
+      },
+      "전용면적": {
+        "m2": 21.5,
+        "p": "6.5"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "3",
+      "floor_string": "3",
+      "building_floor": "4",
+      "title": "신도림 역세권 LH,SH 등 전세임대 및 전세대출 가능",
+      "is_first_movein": null,
+      "room_type": "02",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.5028275165666,
+        "lng": 126.887563886913
+      },
+      "location": {
+        "lat": 37.5028275165666,
+        "lng": 126.887563886913
+      },
+      "manage_cost": "1",
+      "reg_date": "2025-05-26T16:08:57+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44775358,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44775358/10004214.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 500,
+      "rent": 45,
+      "size_m2": 17,
+      "공급면적": {
+        "m2": 17,
+        "p": "5.1"
+      },
+      "전용면적": {
+        "m2": 17,
+        "p": "5.1"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "3",
+      "title": "즉시 입주 가능한 지상층 분리형 매물입니다.",
+      "is_first_movein": null,
+      "room_type": "02",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.496572800745,
+        "lng": 126.90342554974
+      },
+      "location": {
+        "lat": 37.496572800745,
+        "lng": 126.90342554974
+      },
+      "manage_cost": "7",
+      "reg_date": "2025-05-09T09:50:20+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "영등포구",
+        "local3": "대림동",
+        "local4": "",
+        "fullText": "서울시 영등포구 대림동",
+        "localText": "영등포구 대림동"
+      },
+      "address": "영등포구 대림동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 영등포구 대림동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 44552208,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44552208/9014802.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 500,
+      "rent": 38,
+      "size_m2": 23.14,
+      "공급면적": {
+        "m2": 23.14,
+        "p": "7"
+      },
+      "전용면적": {
+        "m2": 23.14,
+        "p": "7"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "반지하",
+      "floor_string": "반지하",
+      "building_floor": "3",
+      "title": "쾌적한 생활을 위한 오픈형 원룸",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.4969747895402,
+        "lng": 126.902389964914
+      },
+      "location": {
+        "lat": 37.4969747895402,
+        "lng": 126.902389964914
+      },
+      "manage_cost": "7",
+      "reg_date": "2025-05-07T13:56:21+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "영등포구",
+        "local3": "대림동",
+        "local4": "",
+        "fullText": "서울시 영등포구 대림동",
+        "localText": "영등포구 대림동"
+      },
+      "address": "영등포구 대림동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 영등포구 대림동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 44923969,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44923969/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 2000,
+      "rent": 38,
+      "size_m2": 21,
+      "공급면적": {
+        "m2": 21,
+        "p": "6.4"
+      },
+      "전용면적": {
+        "m2": 21,
+        "p": "6.4"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "3",
+      "floor_string": "3",
+      "building_floor": "6",
+      "title": "ㅁ구로역세권 오피스텔ㅁ큰대로변ㅁ채광최고ㅁ",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.4997631699654,
+        "lng": 126.882989952254
+      },
+      "location": {
+        "lat": 37.4997631699654,
+        "lng": 126.882989952254
+      },
+      "manage_cost": "10",
+      "reg_date": "2025-05-22T12:03:02+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44938431,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44938431/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 300,
+      "rent": 38,
+      "size_m2": 18.5,
+      "공급면적": {
+        "m2": 18.5,
+        "p": "5.6"
+      },
+      "전용면적": {
+        "m2": 18.5,
+        "p": "5.6"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "반지하",
+      "floor_string": "반지하",
+      "building_floor": "3",
+      "title": "구로역 역세권 준신축급 풀옵션 원룸",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.4977629265367,
+        "lng": 126.883343753568
+      },
+      "location": {
+        "lat": 37.4977629265367,
+        "lng": 126.883343753568
+      },
+      "manage_cost": "5",
+      "reg_date": "2025-05-23T13:46:51+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44822909,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44822909/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 500,
+      "rent": 35,
+      "size_m2": 19.83,
+      "공급면적": {
+        "m2": 19.83,
+        "p": "6"
+      },
+      "전용면적": {
+        "m2": 19.83,
+        "p": "6"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "3",
+      "title": "지상층 초특가",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.5015950119112,
+        "lng": 126.903651259473
+      },
+      "location": {
+        "lat": 37.5015950119112,
+        "lng": 126.903651259473
+      },
+      "manage_cost": "6",
+      "reg_date": "2025-05-21T13:54:17+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "영등포구",
+        "local3": "신길동",
+        "local4": "",
+        "fullText": "서울시 영등포구 신길동",
+        "localText": "영등포구 신길동"
+      },
+      "address": "영등포구 신길동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 영등포구 신길동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 45020107,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45020107/10112239.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 1000,
+      "rent": 45,
+      "size_m2": 13.72,
+      "공급면적": {
+        "m2": 13.72,
+        "p": "4.2"
+      },
+      "전용면적": {
+        "m2": 13.72,
+        "p": "4.2"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "5",
+      "floor_string": "5",
+      "building_floor": "5",
+      "title": "고대병원,넓은 풀옵션,채광좋은방,즉시입주",
+      "is_first_movein": null,
+      "room_type": "01",
+      "status": true,
+      "tags": [],
+      "service_type": "원룸",
+      "random_location": {
+        "lat": 37.492399662727,
+        "lng": 126.88750036563
+      },
+      "location": {
+        "lat": 37.492399662727,
+        "lng": 126.88750036563
+      },
+      "manage_cost": "5",
+      "reg_date": "2025-05-30T17:46:05+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "서울시",
+        "local2": "구로구",
+        "local3": "구로동",
+        "local4": "",
+        "fullText": "서울시 구로구 구로동",
+        "localText": "구로구 구로동"
+      },
+      "address": "구로구 구로동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "서울시 구로구 구로동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    }
+  ]
+}
