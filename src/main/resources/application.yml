@@ -6,8 +6,10 @@ spring:
     password: 1234
   jpa:
     hibernate:
-      ddl-auto: create-drop
-    show-sql: true
+      ddl-auto: validate
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy
+      show-sql: true
 
   springdoc:
     swagger-ui:
