@@ -14,8 +14,7 @@ import jakarta.persistence.Table
 import java.math.BigDecimal
 
 @Entity
-@Table(name = "officetels")
-@DiscriminatorValue("OFFICETEL")
+@Table
 class Officetel(
     zigbangItemId: Long,
     transactionType: TransactionType,

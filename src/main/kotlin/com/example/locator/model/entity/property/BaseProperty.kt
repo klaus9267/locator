@@ -13,14 +13,14 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener
 import java.time.LocalDateTime
 
 @Entity
-@Table(name = "properties")
+@Table(name = "property")
 @Inheritance(strategy = InheritanceType.JOINED)
 @EntityListeners(AuditingEntityListener::class)
-@DiscriminatorColumn(name = "property_type")
+@DiscriminatorColumn(name = "property")
 abstract class BaseProperty(
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    val id: Long = 0, // PK
+    val id: Long? = null,
 
     @Column(unique = true, nullable = false)
     val zigbangItemId: Long, // 직방 매물 고유 ID
@@ -86,6 +86,6 @@ abstract class BaseProperty(
     @Column(nullable = false)
     val updatedAt: LocalDateTime = LocalDateTime.now()
 ) {
-    @OneToMany(cascade = [CascadeType.ALL], orphanRemoval = true)
+    @OneToMany(mappedBy = "property", cascade = [CascadeType.ALL], orphanRemoval = true)
     val options: MutableList<PropertyOptionMapping> = mutableListOf()
 }

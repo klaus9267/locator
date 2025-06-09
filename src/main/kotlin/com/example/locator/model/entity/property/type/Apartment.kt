@@ -1,20 +1,18 @@
 package com.example.locator.model.entity.property.type
 
 import com.example.locator.model.entity.property.BaseProperty
-import com.example.locator.model.entity.property.enums.PropertyType
-import com.example.locator.model.entity.property.enums.TransactionType
 import com.example.locator.model.entity.property.embed.Address
 import com.example.locator.model.entity.property.embed.AreaInfo
 import com.example.locator.model.entity.property.embed.Location
+import com.example.locator.model.entity.property.enums.PropertyType
+import com.example.locator.model.entity.property.enums.TransactionType
 import jakarta.persistence.Column
-import jakarta.persistence.DiscriminatorValue
 import jakarta.persistence.Entity
 import jakarta.persistence.Table
 import java.math.BigDecimal
 
 @Entity
-@Table(name = "apartments")
-@DiscriminatorValue("APARTMENT")
+@Table
 class Apartment(
     zigbangItemId: Long,
     transactionType: TransactionType,
