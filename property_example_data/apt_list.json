@@ -1,0 +1,381 @@
+{
+    "localCode": "41465",
+    "count": 689,
+    "list": [
+        {
+            "areaHoId": 530782,
+            "tranType": "charter",
+            "itemType": "partner",
+            "areaDanjiId": 685,
+            "areaDanjiName": "수지삼성래미안1차",
+            "danjiRoomTypeId": 1801,
+            "local2": "용인시 수지구",
+            "local3": "풍덕천동",
+            "isPriceRange": false,
+            "depositMin": 57000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "163",
+                "p": "49"
+            },
+            "sizeContractM2": 163,
+            "sizeM2": 134.97,
+            "dong": "102동",
+            "floor": "5",
+            "itemTitle": "주변에 유흥가 없고 조용해서 살기 좋습니다.",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": true,
+            "thumbnailUrl": "https://ic.zigbang.com/vp/coalition-realestate/image/customers/2446865/f098987bbc3dac82b9c8b13978cbc3c7c7b3846fd716b1cff03b186c68b1699c",
+            "itemCount": 2,
+            "itemIdList": [
+                {
+                    "itemSource": "coalition",
+                    "itemId": 166596
+                },
+                {
+                    "itemSource": "zigbang",
+                    "itemId": 45099672
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/coalition-realestate/user/profile/ho/1251/17bb3afca84bbff7403927392c0b70e57fc4dd6671770d7c06a635e840fec04c.png",
+                "https://ic.zigbang.com/vp/profile/11751875/fca7aeb4c980f4ca0ece08a74819335f1234e720.jpg"
+            ]
+        },
+        {
+            "areaHoId": 12689493,
+            "tranType": "trade",
+            "itemType": "self_ad",
+            "areaDanjiId": 18913,
+            "areaDanjiName": "한빛래미안이스트팰리스3단지",
+            "danjiRoomTypeId": 16133,
+            "local2": "용인시 수지구",
+            "local3": "동천동",
+            "isPriceRange": false,
+            "depositMin": 104000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "111",
+                "p": "34"
+            },
+            "sizeContractM2": 111.16,
+            "sizeM2": 84.99,
+            "dong": "1309동",
+            "floor": "저",
+            "itemTitle": "입주 협의 정남향 확장 에어컨 소유자 직접 의뢰 공동중개",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": true,
+            "thumbnailUrl": "https://ic.zigbang.com/ic/floorplan/18913/16133/29bb23035282d943a46308bf92b1b1f2f4781746.jpg",
+            "isFloorPlanThumbnail": true,
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "zigbang",
+                    "itemId": 45098375
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/profile/2889914/426a0086810718254a64fea3218b86b0ab291cf1.jpg"
+            ]
+        },
+        {
+            "areaHoId": 16801567,
+            "tranType": "trade",
+            "itemType": "partner",
+            "areaDanjiId": 23635,
+            "areaDanjiName": "광교더힐",
+            "danjiRoomTypeId": 325577,
+            "local2": "용인시 수지구",
+            "local3": "상현동",
+            "isPriceRange": false,
+            "depositMin": 125000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "172A",
+                "p": "52A"
+            },
+            "sizeContractM2": 172.696,
+            "sizeM2": 135.45,
+            "dong": "4503동",
+            "floor": "7",
+            "itemTitle": "신분당선 상현역 도보5분 초역세권.초.중.고 도보 통학가",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": true,
+            "thumbnailUrl": "https://ic.zigbang.com/vp/coalition-realestate/image/customers/9242988/c48d5f8c8859343ea5a3bf0900a31d72c057d5e2080b7ba2b390d74d03b41247",
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "coalition",
+                    "itemId": 166469
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/coalition-realestate/user/profile/ho/1043/e75b5f4aa7bea3b21892581d76190fe0abb4b31f49ae49e590f2653264a22282.png"
+            ]
+        },
+        {
+            "areaHoId": 5328954,
+            "tranType": "charter",
+            "itemType": "self_ad",
+            "areaDanjiId": 692,
+            "areaDanjiName": "현대",
+            "danjiRoomTypeId": 1813,
+            "local2": "용인시 수지구",
+            "local3": "풍덕천동",
+            "isPriceRange": false,
+            "depositMin": 48000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "104",
+                "p": "31"
+            },
+            "sizeContractM2": 104.52,
+            "sizeM2": 84.51,
+            "dong": "104동",
+            "floor": "15",
+            "itemTitle": "9월4일 입주, 전망 트인 집, 깔끔 부분수리,신혼부부추천",
+            "zzimCount": 1,
+            "isZzim": false,
+            "isActualItemChecked": false,
+            "thumbnailUrl": "https://ic.zigbang.com/ic/floorplan/692/1813/078a77dd3666421195edddcc09adbad6.png",
+            "isFloorPlanThumbnail": true,
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "zigbang",
+                    "itemId": 45089630
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/profile/24490076/27b641c6-b8fb-47d2-987b-8e06b3520ef6.jpg"
+            ]
+        },
+        {
+            "areaHoId": 5329069,
+            "tranType": "trade",
+            "itemType": "self_ad",
+            "areaDanjiId": 692,
+            "areaDanjiName": "현대",
+            "danjiRoomTypeId": 1813,
+            "local2": "용인시 수지구",
+            "local3": "풍덕천동",
+            "isPriceRange": false,
+            "depositMin": 90000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "104",
+                "p": "31"
+            },
+            "sizeContractM2": 104.52,
+            "sizeM2": 84.51,
+            "dong": "105동",
+            "floor": "14",
+            "itemTitle": "전체 내외부 샷시 교체, 방1확장, 주인수리, 특올수리",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": false,
+            "thumbnailUrl": "https://ic.zigbang.com/ic/floorplan/692/1813/078a77dd3666421195edddcc09adbad6.png",
+            "isFloorPlanThumbnail": true,
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "zigbang",
+                    "itemId": 45089602
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/profile/24490076/27b641c6-b8fb-47d2-987b-8e06b3520ef6.jpg"
+            ]
+        },
+        {
+            "areaHoId": 4147304,
+            "tranType": "trade",
+            "itemType": "partner",
+            "areaDanjiId": 682,
+            "areaDanjiName": "동부",
+            "danjiRoomTypeId": 1796,
+            "local2": "용인시 수지구",
+            "local3": "풍덕천동",
+            "isPriceRange": false,
+            "depositMin": 65000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "78A",
+                "p": "24A"
+            },
+            "sizeContractM2": 78.61,
+            "sizeM2": 59.61,
+            "dong": "104동",
+            "floor": "8",
+            "itemTitle": "내부 샷시(KCC), 중문 포함 올수리 했습니다",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": true,
+            "thumbnailUrl": "https://ic.zigbang.com/vp/coalition-realestate/image/customers/3122195/3bc88b8aded26cc5a901f6076860548ae3faa5cfa58b479c973d3a9d612dbe21",
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "coalition",
+                    "itemId": 166398
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/coalition-realestate/user/profile/ho/1251/17bb3afca84bbff7403927392c0b70e57fc4dd6671770d7c06a635e840fec04c.png"
+            ]
+        },
+        {
+            "areaHoId": 4580872,
+            "tranType": "trade",
+            "itemType": "self_ad",
+            "areaDanjiId": 20859,
+            "areaDanjiName": "광교자이더클래스",
+            "danjiRoomTypeId": 18599,
+            "local2": "용인시 수지구",
+            "local3": "상현동",
+            "isPriceRange": false,
+            "depositMin": 133000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "111B",
+                "p": "34B"
+            },
+            "sizeContractM2": 111.66,
+            "sizeM2": 84.98,
+            "dong": "4205동",
+            "floor": "중",
+            "itemTitle": "신분당선초역세권,초중고바로근접,주인세대로 집상태좋음",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": true,
+            "thumbnailUrl": "https://ic.zigbang.com/ic/floorplan/20859/18599/5344dd94b255451bbdf7fd44f114380d.png",
+            "isFloorPlanThumbnail": true,
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "zigbang",
+                    "itemId": 45088287
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/profile/838995/d2ef46cbc0b29915f6f3eb0494b908caefc4b7c8.jpg"
+            ]
+        },
+        {
+            "areaHoId": 4938570,
+            "tranType": "charter",
+            "itemType": "self_ad",
+            "areaDanjiId": 36830,
+            "areaDanjiName": "e편한세상수지",
+            "danjiRoomTypeId": 151375,
+            "local2": "용인시 수지구",
+            "local3": "풍덕천동",
+            "isPriceRange": false,
+            "depositMin": 80000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "112F",
+                "p": "34F"
+            },
+            "sizeContractM2": 112.13,
+            "sizeM2": 84.929,
+            "dong": "103동",
+            "floor": "고",
+            "itemTitle": "강추,붙밖이,중문,옵션굿,작은방큰구조,로얄층,수지초바로옆",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": true,
+            "thumbnailUrl": "https://ic.zigbang.com/ic/ceo-apart/ad-items/16433770/1c1970181743eccddaef2432d514e5303267d27e909c788dcea4b97263ae6429",
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "zigbang",
+                    "itemId": 45087938
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/profile/16433770/c65548c8-64ae-4a7a-b5cf-ec246ac6359d.jpg"
+            ]
+        },
+        {
+            "areaHoId": 1366094,
+            "tranType": "trade",
+            "itemType": "partner",
+            "areaDanjiId": 4751,
+            "areaDanjiName": "만현마을7단지쌍용1차",
+            "danjiRoomTypeId": 8259,
+            "local2": "용인시 수지구",
+            "local3": "상현동",
+            "isPriceRange": false,
+            "depositMin": 60000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "106",
+                "p": "32"
+            },
+            "sizeContractM2": 106.21,
+            "sizeM2": 84.8,
+            "dong": "708동",
+            "floor": "1",
+            "itemTitle": "상현동 중심상권 대단지 아파트/ 층간소음 걱정없는 1층",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": true,
+            "thumbnailUrl": "https://ic.zigbang.com/vp/coalition-realestate/image/customers/10338445/3f05e8a8d92f77023f78e6a3b61671d072ae215b6f83cba3b66c12bc9839fd7b",
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "coalition",
+                    "itemId": 166377
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/coalition-realestate/user/profile/ho/1251/17bb3afca84bbff7403927392c0b70e57fc4dd6671770d7c06a635e840fec04c.png"
+            ]
+        },
+        {
+            "areaHoId": 190872,
+            "tranType": "trade",
+            "itemType": "self_ad",
+            "areaDanjiId": 1517,
+            "areaDanjiName": "용인수지신정마을1단지주공",
+            "danjiRoomTypeId": 4081,
+            "local2": "용인시 수지구",
+            "local3": "풍덕천동",
+            "isPriceRange": false,
+            "depositMin": 81000,
+            "rentMin": 0,
+            "roomTypeTitle": {
+                "m2": "83A",
+                "p": "25A"
+            },
+            "sizeContractM2": 83.58,
+            "sizeM2": 59.39,
+            "dong": "101동",
+            "floor": "3",
+            "itemTitle": "8월 중순 입주협의가능, 부분수리, 탁트인 조망 및 채광",
+            "zzimCount": 0,
+            "isZzim": false,
+            "isActualItemChecked": true,
+            "thumbnailUrl": "https://ic.zigbang.com/ic/floorplan/1517/4081/023f54ceb04b4432b9ded931e6af5727.png",
+            "isFloorPlanThumbnail": true,
+            "itemCount": 1,
+            "itemIdList": [
+                {
+                    "itemSource": "zigbang",
+                    "itemId": 45083077
+                }
+            ],
+            "agentThumbnailUrls": [
+                "https://ic.zigbang.com/vp/profile/19902613/53798c99-5038-467b-a0c1-cf6a2ef6ac3c.png"
+            ]
+        }
+    ],
+    "local1": "경기도",
+    "local2": "용인시 수지구",
+    "step": "2",
+    "lat": 37.3221224984,
+    "lng": 127.097690765
+}

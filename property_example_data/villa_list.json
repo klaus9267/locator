@@ -1,0 +1,1055 @@
+{
+  "items": [
+    {
+      "item_id": 45107245,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45107245/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 8000,
+      "rent": 35,
+      "size_m2": 59.5041,
+      "공급면적": {
+        "m2": 59.5,
+        "p": "18"
+      },
+      "전용면적": {
+        "m2": 59.5,
+        "p": "18"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "3",
+      "title": "수지구청역5분거리의 넓고 베란다있는 투룸",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.324127197265625,
+        "lng": 127.09873962402344
+      },
+      "location": {
+        "lat": 37.324127197265625,
+        "lng": 127.09873962402344
+      },
+      "manage_cost": "3",
+      "reg_date": "2025-06-07T16:19:56+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "용인시 수지구",
+        "local3": "풍덕천동",
+        "local4": "",
+        "fullText": "경기도 용인시 수지구 풍덕천동",
+        "localText": "용인시 수지구 풍덕천동"
+      },
+      "address": "용인시 수지구 풍덕천동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 용인시 수지구 풍덕천동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 45080972,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45080972/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 4000,
+      "rent": 30,
+      "size_m2": 56.2,
+      "공급면적": {
+        "m2": 56.2,
+        "p": "17"
+      },
+      "전용면적": {
+        "m2": 56.2,
+        "p": "17"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "반지하",
+      "floor_string": "반지하",
+      "building_floor": "3",
+      "title": "수지구청역5분거리의 넓고 깔끔한 투룸",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.324127197265625,
+        "lng": 127.09873962402344
+      },
+      "location": {
+        "lat": 37.324127197265625,
+        "lng": 127.09873962402344
+      },
+      "manage_cost": "3",
+      "reg_date": "2025-06-05T12:00:30+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "용인시 수지구",
+        "local3": "풍덕천동",
+        "local4": "",
+        "fullText": "경기도 용인시 수지구 풍덕천동",
+        "localText": "용인시 수지구 풍덕천동"
+      },
+      "address": "용인시 수지구 풍덕천동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 용인시 수지구 풍덕천동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44603705,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44603705/9940283.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 500,
+      "rent": 50,
+      "size_m2": 46.25,
+      "공급면적": {
+        "m2": 46.25,
+        "p": "14"
+      },
+      "전용면적": {
+        "m2": 46.25,
+        "p": "14"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "3",
+      "floor_string": "3",
+      "building_floor": "4",
+      "title": "쓰리 룸.풀 옵션.즉시입주.우만4단지5분.연무시장.경기대 ",
+      "is_first_movein": null,
+      "room_type": "05",
+      "status": true,
+      "tags": [],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.296368017899,
+        "lng": 127.02980668391
+      },
+      "location": {
+        "lat": 37.296368017899,
+        "lng": 127.02980668391
+      },
+      "manage_cost": "5",
+      "reg_date": "2025-04-27T23:11:53+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 장안구",
+        "local3": "연무동",
+        "local4": "",
+        "fullText": "경기도 수원시 장안구 연무동",
+        "localText": "수원시 장안구 연무동"
+      },
+      "address": "수원시 장안구 연무동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 장안구 연무동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 44988114,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44988114/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 2000,
+      "rent": 65,
+      "size_m2": 49.59,
+      "공급면적": {
+        "m2": 49.59,
+        "p": "15"
+      },
+      "전용면적": {
+        "m2": 49.59,
+        "p": "15"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "3",
+      "title": "전체올수리 투룸입니다.",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.3334399431266,
+        "lng": 127.094321025896
+      },
+      "location": {
+        "lat": 37.3334399431266,
+        "lng": 127.094321025896
+      },
+      "manage_cost": "5",
+      "reg_date": "2025-05-30T20:52:28+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "용인시 수지구",
+        "local3": "풍덕천동",
+        "local4": "",
+        "fullText": "경기도 용인시 수지구 풍덕천동",
+        "localText": "용인시 수지구 풍덕천동"
+      },
+      "address": "용인시 수지구 풍덕천동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 용인시 수지구 풍덕천동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 45059791,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45059791/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 15000,
+      "rent": 10,
+      "size_m2": 49.59,
+      "공급면적": {
+        "m2": 49.59,
+        "p": "15"
+      },
+      "전용면적": {
+        "m2": 49.59,
+        "p": "15"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "3",
+      "floor_string": "3",
+      "building_floor": "4",
+      "title": "남향.투룸반전세.전세대출가능.융자무",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.33381018683,
+        "lng": 127.094308512209
+      },
+      "location": {
+        "lat": 37.33381018683,
+        "lng": 127.094308512209
+      },
+      "manage_cost": "6",
+      "reg_date": "2025-06-03T16:45:09+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "용인시 수지구",
+        "local3": "동천동",
+        "local4": "",
+        "fullText": "경기도 용인시 수지구 동천동",
+        "localText": "용인시 수지구 동천동"
+      },
+      "address": "용인시 수지구 동천동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 용인시 수지구 동천동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 45055617,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45055617/1.jpg",
+      "sales_type": "전세",
+      "sales_title": "전세",
+      "deposit": 15000,
+      "rent": 0,
+      "size_m2": 50,
+      "공급면적": {
+        "m2": 50,
+        "p": "15.1"
+      },
+      "전용면적": {
+        "m2": 50,
+        "p": "15.1"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "2",
+      "floor_string": "2",
+      "building_floor": "3",
+      "title": "아주 깨끗한 남향 투룸",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.3330108609187,
+        "lng": 127.119287307436
+      },
+      "location": {
+        "lat": 37.3330108609187,
+        "lng": 127.119287307436
+      },
+      "manage_cost": "7",
+      "reg_date": "2025-06-03T12:29:48+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "용인시 수지구",
+        "local3": "죽전동",
+        "local4": "",
+        "fullText": "경기도 용인시 수지구 죽전동",
+        "localText": "용인시 수지구 죽전동"
+      },
+      "address": "용인시 수지구 죽전동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 용인시 수지구 죽전동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 45074274,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45074274/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 1000,
+      "rent": 90,
+      "size_m2": 49.44,
+      "공급면적": {
+        "m2": 49.44,
+        "p": "15"
+      },
+      "전용면적": {
+        "m2": 49.44,
+        "p": "15"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "2",
+      "floor_string": "2",
+      "building_floor": "4",
+      "title": "OO 방2, 풀옵션, 1층주차, 준신축, 연무시장쪽,",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.2967728342755,
+        "lng": 127.028794037389
+      },
+      "location": {
+        "lat": 37.2967728342755,
+        "lng": 127.028794037389
+      },
+      "manage_cost": "10",
+      "reg_date": "2025-06-06T17:42:24+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 장안구",
+        "local3": "연무동",
+        "local4": "",
+        "fullText": "경기도 수원시 장안구 연무동",
+        "localText": "수원시 장안구 연무동"
+      },
+      "address": "수원시 장안구 연무동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 장안구 연무동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44593909,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44593909/9936534.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 300,
+      "rent": 50,
+      "size_m2": 40.37,
+      "공급면적": {
+        "m2": 40.37,
+        "p": "12.2"
+      },
+      "전용면적": {
+        "m2": 40.37,
+        "p": "12.2"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "1",
+      "floor_string": "1",
+      "building_floor": "3",
+      "title": "투 룸. 풀 옵션. 즉시 입주. 경기대 인근. 우만4단지 ",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.296764534057,
+        "lng": 127.03165842594
+      },
+      "location": {
+        "lat": 37.296764534057,
+        "lng": 127.03165842594
+      },
+      "manage_cost": "0",
+      "reg_date": "2025-05-07T09:40:58+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 장안구",
+        "local3": "연무동",
+        "local4": "",
+        "fullText": "경기도 수원시 장안구 연무동",
+        "localText": "수원시 장안구 연무동"
+      },
+      "address": "수원시 장안구 연무동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 장안구 연무동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 45083938,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45083938/1.jpg",
+      "sales_type": "전세",
+      "sales_title": "전세",
+      "deposit": 25000,
+      "rent": 0,
+      "size_m2": 73,
+      "공급면적": {
+        "m2": 73,
+        "p": "22.1"
+      },
+      "전용면적": {
+        "m2": 73,
+        "p": "22.1"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "3",
+      "floor_string": "3",
+      "building_floor": "4",
+      "title": "독채로서 테라스와 넓은 투룸으로 가성비 좋아요.신혼추천함",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.2941127704339,
+        "lng": 127.052476854737
+      },
+      "location": {
+        "lat": 37.2941127704339,
+        "lng": 127.052476854737
+      },
+      "manage_cost": "10",
+      "reg_date": "2025-06-06T11:36:11+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 영통구",
+        "local3": "이의동",
+        "local4": "",
+        "fullText": "경기도 수원시 영통구 이의동",
+        "localText": "수원시 영통구 이의동"
+      },
+      "address": "수원시 영통구 이의동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 영통구 이의동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 45073486,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45073486/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 1000,
+      "rent": 70,
+      "size_m2": 40.07,
+      "공급면적": {
+        "m2": 40.07,
+        "p": "12.1"
+      },
+      "전용면적": {
+        "m2": 40.07,
+        "p": "12.1"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "2",
+      "floor_string": "2",
+      "building_floor": "5",
+      "title": "오케이l광교출퇴근가능l깔끔한투룸l좋은가격l선점하세요l",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.2873130189635,
+        "lng": 127.030235474134
+      },
+      "location": {
+        "lat": 37.2873130189635,
+        "lng": 127.030235474134
+      },
+      "manage_cost": "10",
+      "reg_date": "2025-06-09T16:03:05+09:00",
+      "is_new": true,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 팔달구",
+        "local3": "우만동",
+        "local4": "",
+        "fullText": "경기도 수원시 팔달구 우만동",
+        "localText": "수원시 팔달구 우만동"
+      },
+      "address": "수원시 팔달구 우만동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 팔달구 우만동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44848724,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44848724/1.jpg",
+      "sales_type": "전세",
+      "sales_title": "전세",
+      "deposit": 21000,
+      "rent": 0,
+      "size_m2": 45,
+      "공급면적": {
+        "m2": 45,
+        "p": "13.6"
+      },
+      "전용면적": {
+        "m2": 45,
+        "p": "13.6"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "4",
+      "floor_string": "4",
+      "building_floor": "4",
+      "title": "융무 신축급투룸 일반대출가능 보증보험가입",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.335750377669,
+        "lng": 127.091787094041
+      },
+      "location": {
+        "lat": 37.335750377669,
+        "lng": 127.091787094041
+      },
+      "manage_cost": "9.9",
+      "reg_date": "2025-06-03T14:23:11+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "용인시 수지구",
+        "local3": "동천동",
+        "local4": "",
+        "fullText": "경기도 용인시 수지구 동천동",
+        "localText": "용인시 수지구 동천동"
+      },
+      "address": "용인시 수지구 동천동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 용인시 수지구 동천동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44651226,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44651226/9958275.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 1000,
+      "rent": 55,
+      "size_m2": 54.02,
+      "공급면적": {
+        "m2": 54.02,
+        "p": "16.3"
+      },
+      "전용면적": {
+        "m2": 54.02,
+        "p": "16.3"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "2",
+      "floor_string": "2",
+      "building_floor": "2",
+      "title": "거실 넓은 투룸. 풀 옵션.주차가능.남향. 경기대 인근.",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.298068541922,
+        "lng": 127.02945974663
+      },
+      "location": {
+        "lat": 37.298068541922,
+        "lng": 127.02945974663
+      },
+      "manage_cost": "2",
+      "reg_date": "2025-04-30T13:15:59+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 장안구",
+        "local3": "연무동",
+        "local4": "",
+        "fullText": "경기도 수원시 장안구 연무동",
+        "localText": "수원시 장안구 연무동"
+      },
+      "address": "수원시 장안구 연무동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 장안구 연무동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "PARTNERS",
+      "zikim": {
+        "hasVrKey": false
+      }
+    },
+    {
+      "item_id": 44973441,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44973441/1.jpg",
+      "sales_type": "전세",
+      "sales_title": "전세",
+      "deposit": 21000,
+      "rent": 0,
+      "size_m2": 41.17,
+      "공급면적": {
+        "m2": 41.17,
+        "p": "12.5"
+      },
+      "전용면적": {
+        "m2": 41.17,
+        "p": "12.5"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "5",
+      "floor_string": "5",
+      "building_floor": "5",
+      "title": "HUG보증보험,대형쓰리룸,신축풀옵션",
+      "is_first_movein": null,
+      "room_type": "05",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.2939065757811,
+        "lng": 127.027910438443
+      },
+      "location": {
+        "lat": 37.2939065757811,
+        "lng": 127.027910438443
+      },
+      "manage_cost": "12",
+      "reg_date": "2025-05-27T11:15:58+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 장안구",
+        "local3": "연무동",
+        "local4": "",
+        "fullText": "경기도 수원시 장안구 연무동",
+        "localText": "수원시 장안구 연무동"
+      },
+      "address": "수원시 장안구 연무동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 장안구 연무동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 45106915,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/45106915/1.jpg",
+      "sales_type": "월세",
+      "sales_title": "월세",
+      "deposit": 5000,
+      "rent": 130,
+      "size_m2": 66,
+      "공급면적": {
+        "m2": 66,
+        "p": "20"
+      },
+      "전용면적": {
+        "m2": 66,
+        "p": "20"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "2",
+      "floor_string": "2",
+      "building_floor": "4",
+      "title": "채광 좋고 탁트여 전망 좋은 쓰리룸",
+      "is_first_movein": null,
+      "room_type": "05",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.29515794775905,
+        "lng": 127.0564497712486
+      },
+      "location": {
+        "lat": 37.29515794775905,
+        "lng": 127.0564497712486
+      },
+      "manage_cost": "15",
+      "reg_date": "2025-06-07T15:52:25+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 영통구",
+        "local3": "이의동",
+        "local4": "",
+        "fullText": "경기도 수원시 영통구 이의동",
+        "localText": "수원시 영통구 이의동"
+      },
+      "address": "수원시 영통구 이의동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 영통구 이의동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    },
+    {
+      "item_id": 44999936,
+      "section_type": null,
+      "images_thumbnail": "https://ic.zigbang.com/ic/items/44999936/1.jpg",
+      "sales_type": "전세",
+      "sales_title": "전세",
+      "deposit": 22000,
+      "rent": 0,
+      "size_m2": 59.5,
+      "공급면적": {
+        "m2": 59.5,
+        "p": "18"
+      },
+      "전용면적": {
+        "m2": 59.5,
+        "p": "18"
+      },
+      "계약면적": null,
+      "room_type_title": null,
+      "floor": "2",
+      "floor_string": "2",
+      "building_floor": "4",
+      "title": "방과 거실이 넓고 수납 공간이 좋은 투룸",
+      "is_first_movein": null,
+      "room_type": "04",
+      "status": true,
+      "tags": [
+        "추천"
+      ],
+      "service_type": "빌라",
+      "random_location": {
+        "lat": 37.294848513001895,
+        "lng": 127.05534427861228
+      },
+      "location": {
+        "lat": 37.294848513001895,
+        "lng": 127.05534427861228
+      },
+      "manage_cost": "10",
+      "reg_date": "2025-06-03T18:56:33+09:00",
+      "is_new": false,
+      "addressOrigin": {
+        "local1": "경기도",
+        "local2": "수원시 영통구",
+        "local3": "이의동",
+        "local4": "",
+        "fullText": "경기도 수원시 영통구 이의동",
+        "localText": "수원시 영통구 이의동"
+      },
+      "address": "수원시 영통구 이의동",
+      "action": {
+        "isRead": false,
+        "readAt": null,
+        "isInquired": false,
+        "inquiredAt": null,
+        "isRewarded": false,
+        "rewardedAt": null,
+        "isReported": false,
+        "reportedAt": null,
+        "isChecked": false,
+        "checkedAt": null,
+        "isZzim": false
+      },
+      "contract": "",
+      "is_zzim": false,
+      "address1": "경기도 수원시 영통구 이의동",
+      "address2": null,
+      "address3": null,
+      "item_bm_type": "ZIGBANG"
+    }
+  ]
+}
