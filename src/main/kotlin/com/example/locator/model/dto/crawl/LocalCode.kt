@@ -1,4 +1,4 @@
-package com.example.locator.model.entity.crawl
+package com.example.locator.model.dto.crawl
 
 enum class LocalCode(
     val region: String,
