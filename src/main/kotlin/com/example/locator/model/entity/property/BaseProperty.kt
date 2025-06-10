@@ -5,7 +5,6 @@ import com.example.locator.model.entity.property.embed.AreaInfo
 import com.example.locator.model.entity.property.embed.Location
 import com.example.locator.model.entity.property.enums.PropertyType
 import com.example.locator.model.entity.property.enums.TransactionType
-import com.example.locator.model.entity.property.option.PropertyOptionMapping
 import jakarta.persistence.*
 import org.springframework.data.annotation.CreatedDate
 import org.springframework.data.annotation.LastModifiedDate
@@ -86,6 +85,4 @@ abstract class BaseProperty(
     @Column(nullable = false)
     val updatedAt: LocalDateTime = LocalDateTime.now()
 ) {
-    @OneToMany(mappedBy = "property", cascade = [CascadeType.ALL], orphanRemoval = true)
-    val options: MutableList<PropertyOptionMapping> = mutableListOf()
 }
