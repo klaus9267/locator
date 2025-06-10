@@ -1,6 +1,10 @@
 package com.example.locator.service
 
-import com.example.locator.model.entity.crawl.LocalCode
+import com.example.locator.model.dto.crawl.LocalCode
+import com.example.locator.model.entity.property.embed.Address
+import com.example.locator.model.entity.property.embed.Location
+import com.example.locator.model.entity.property.enums.TransactionType
+import com.example.locator.model.entity.property.type.Apartment
 import com.fasterxml.jackson.databind.ObjectMapper
 import com.fasterxml.jackson.module.kotlin.jacksonObjectMapper
 import io.github.oshai.kotlinlogging.KotlinLogging
@@ -8,6 +12,7 @@ import org.springframework.http.HttpHeaders
 import org.springframework.http.MediaType
 import org.springframework.stereotype.Service
 import org.springframework.web.reactive.function.client.WebClient
+import java.math.BigDecimal
 import kotlin.random.Random
 
 @Service
@@ -40,37 +45,78 @@ class CrawlService(
         .defaultHeader(HttpHeaders.ACCEPT_LANGUAGE, "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7")
         .build()
 
-    fun crawlApartments(): ApartmentCatalogResponse {
-        val initialResponse = sendCrawlApartmentsRequest(LocalCode.YONGIN_SUJI, 0)
-        val totalCount = initialResponse.count
+    fun crawlApartments() {
+        for (localCode in LocalCode.entries) {
+            if (localCode != LocalCode.YONGIN_SUJI) continue
 
-        logger.info { "총 매물 수: $totalCount" }
+            val initialResponse = sendCrawlApartmentsRequest(localCode, 0)
+            val totalCount = initialResponse.count
 
-        val allItems = mutableListOf<ApartmentCatalogItem>()
-        allItems.addAll(initialResponse.list)
-        var offset = 10
+            logger.info { "총 매물 수: $totalCount" }
 
-        while (allItems.size < totalCount) {
-            val response = sendCrawlApartmentsRequest(LocalCode.YONGIN_SUJI, offset)
+            val allItems = mutableListOf<ApartmentItem>()
+            allItems.addAll(initialResponse.list)
+            var offset = 10
 
-            if (response.list.isEmpty()) break
+            while (allItems.size < totalCount) {
+                val response = sendCrawlApartmentsRequest(LocalCode.YONGIN_SUJI, offset)
 
-            allItems.addAll(response.list)
-            offset += 10
+                if (response.list.isEmpty()) break
 
-            if (allItems.size < totalCount) {
-                Thread.sleep(Random.nextLong(500, 1500)) // 0.5~1.5초 랜덤 지연
+                allItems.addAll(response.list)
+                offset += 10
+
+                if (allItems.size < totalCount) {
+                    Thread.sleep(Random.nextLong(500, 1500)) // 0.5~1.5초 랜덤 지연
+                }
             }
+
+            val finalResponse = ApartmentCatalogResponse(
+                localCode = initialResponse.localCode,
+                count = totalCount,
+                list = allItems
+            )
+
+            logger.info { "크롤링 완료 - ${localCode.region}의 매물 총 ${finalResponse.count}개 중 ${finalResponse.list.size}개 매물 수집" }
+
         }
+    }
 
-        val finalResponse = ApartmentCatalogResponse(
-            localCode = initialResponse.localCode,
-            count = totalCount,
-            list = allItems
+    private fun saveApartments() {
+
+    }
+
+    private fun mapToApartmentEntity(
+        catalogItem: ApartmentItem,
+        localCode: LocalCode
+    ): Apartment {
+        return Apartment(
+            zigbangItemId = catalogItem.areaHoId,
+            transactionType = TransactionType.fromString(catalogItem.tranType),
+            title = catalogItem.itemTitle,
+            deposit = catalogItem.depositMin.toLong(),
+            monthlyRent = if (catalogItem.rentMin > 0) catalogItem.rentMin.toLong() else null,
+            exclusiveArea = BigDecimal.valueOf(catalogItem.sizeM2),
+            supplyArea = BigDecimal.valueOf(catalogItem.sizeContractM2),
+            location = Location(
+                //todo: 좌표 정보 카카오 키워드로 장소 검색으로 받아오기
+                latitude = 11.11,
+                longitude = 11.11
+            ),
+            address = Address(
+                local1 = localCode.region.split(" ")[0],
+                local2 = catalogItem.local2,
+                local3 = catalogItem.local3,
+                fullAddress = "${catalogItem.local2} ${catalogItem.local3}"
+            ),
+            floorInfo = catalogItem.floor,
+            thumbnailUrl = catalogItem.thumbnailUrl,
+            complexId = catalogItem.areaDanjiId,
+            complexName = catalogItem.areaDanjiName,
+            dong = catalogItem.dong,
+            roomTypeId = catalogItem.danjiRoomTypeId,
+            contractArea = BigDecimal.valueOf(catalogItem.sizeContractM2),
         )
-
-        logger.info { "크롤링 완료 - 총 ${finalResponse.count}개 중 ${finalResponse.list.size}개 매물 수집" }
-        return finalResponse
     }
 
     private fun sendCrawlApartmentsRequest(
@@ -93,34 +139,13 @@ class CrawlService(
         .block() ?: throw RuntimeException("응답이 null입니다")
 }
 
-// DTO 클래스들
-
-// 위치 경계
-data class LocationBounds(
-    val lngEast: Double,
-    val lngWest: Double,
-    val latSouth: Double,
-    val latNorth: Double
-) {
-    companion object {
-        // 성복동 경계 좌표
-        val SEONGBOK_DONG = LocationBounds(
-            lngEast = 127.1521063223339,
-            lngWest = 127.0354714009278,
-            latSouth = 37.322114258081115,
-            latNorth = 37.33283419206626
-        )
-    }
-}
-
-// 아파트 목록 응답
 data class ApartmentCatalogResponse(
     val localCode: String,
     val count: Int,
-    val list: List<ApartmentCatalogItem>
+    val list: List<ApartmentItem>
 )
 
-data class ApartmentCatalogItem(
+data class ApartmentItem(
     val areaHoId: Long,
     val tranType: String,
     val itemType: String,
@@ -137,13 +162,9 @@ data class ApartmentCatalogItem(
     val dong: String,
     val floor: String,
     val itemTitle: String,
-    val zzimCount: Int,
-    val isZzim: Boolean,
     val isActualItemChecked: Boolean,
     val thumbnailUrl: String?,
-    val itemCount: Int,
     val itemIdList: List<ItemId>,
-    val agentThumbnailUrls: List<String>
 )
 
 data class RoomTypeTitle(
@@ -154,25 +175,6 @@ data class RoomTypeTitle(
 data class ItemId(
     val itemSource: String,
     val itemId: Long
-)
-
-// 아파트 상세 응답
-data class ApartmentDetailResponse(
-    val pageProps: PageProps
-)
-
-data class PageProps(
-    val areaHoId: Long,
-    val tranType: String,
-    val items: List<DetailItem>
-)
-
-data class DetailItem(
-    val id: Long,
-    val deposit: Int,
-    val rent: Int,
-    val floor: String,
-    val description: String
 )
 
 // 빌라/원룸 ID 수집 응답

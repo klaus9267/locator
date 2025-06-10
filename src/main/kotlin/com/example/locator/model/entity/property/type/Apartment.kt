@@ -46,9 +46,6 @@ class Apartment(
     val roomTypeId: Long? = null, // 방 타입 ID (직방 내부 ID)
 
     @Column
-    val contractArea: BigDecimal? = null, // 계약면적 (단위: m²)
-
-    @Column
     val roomCount: Int? = null, // 방 개수
 
     @Column

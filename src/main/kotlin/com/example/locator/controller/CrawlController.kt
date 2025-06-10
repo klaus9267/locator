@@ -16,5 +16,5 @@ class CrawlController(
 
     @PostMapping("/apartments")
     @ResponseStatus(HttpStatus.OK)
-    fun crawlApartments(): ApartmentCatalogResponse = crawlService.crawlApartments()
+    fun crawlApartments() = crawlService.crawlApartments()
 }
