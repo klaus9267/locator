@@ -1,0 +1,300 @@
+{
+  "query": {
+    "areaHoId": "9047351",
+    "tranType": "trade"
+  },
+  "pageProps": {
+    "meta": {
+      "ogTitle": "'동천마을동문굿모닝힐3차' 매매 6억 9,000",
+      "ogDescription": "동천역 도보10분 막힘없는 전망좋은 집",
+      "ogImage": null
+    },
+    "itemCatalogHoInfo": {
+      "areaDanjiId": 5892,
+      "areaDanjiName": "동천마을동문굿모닝힐3차",
+      "bcode": "4146510300",
+      "local1": "경기도",
+      "local2": "용인시 수지구",
+      "local3": "동천동",
+      "areaBuildingId": 192919,
+      "danjiRoomTypeId": 34167,
+      "areaHoId": 9047351,
+      "danjiInfo": {
+        "parkingCount": null,
+        "parkingCountByHousehold": 0,
+        "oldAddress": "경기도 용인시 수지구 동천동 858",
+        "newAddress": "경기 용인시 수지구 동천로 93",
+        "approvalDate": "20011107",
+        "household": 181,
+        "realType": "아파트",
+        "areaDanjiDivision": "입주2년후",
+        "is후분양": false,
+        "danjiImage": "https://ic.zigbang.com/vp/BigData/5892/aabe6459c0464f2bcddf5366d102ed2e75a007b2.jpg",
+        "zedStatus": "enabled",
+        "webZedStatus": "enabled",
+        "lat": 37.33820017254762,
+        "lng": 127.09364910901
+      },
+      "hoInfo": {
+        "dong": "302동",
+        "buildingFloor": 25,
+        "roomTypeTitle": {
+          "m2": "105",
+          "p": "32"
+        },
+        "sizeContractM2": 105.59,
+        "sizeM2": 84.72,
+        "roomCount": 3,
+        "bathroomCount": 2,
+        "direction": "s",
+        "LandRatio": "32.38/7392",
+        "landArea": 32.38,
+        "totalLandArea": 7392,
+        "floorPlanImageUrl": "https://ic.zigbang.com/ic/floorplan/5892/34167/64abb934cfeb47feb90e276c5a8bb125.png",
+        "manageCost": {
+          "yearManageCost": 28,
+          "summerManageCost": 22,
+          "winterManageCost": 37,
+          "isHeatInclude": null
+        },
+        "공급면적": {
+          "m2": "105.59",
+          "p": "31.9"
+        },
+        "전용면적": {
+          "m2": "84.72",
+          "p": "25.6"
+        }
+      },
+      "vrItems": [
+        {
+          "vrHouseKey": "spNCQfy6",
+          "thumbnail": "https://ic.zigbang.com/vr/ap-northeast-2/houses/spNCQfy6/cover/medium/cover.jpg",
+          "areaDanjiId": 5892,
+          "areaBuildingName": "302동",
+          "areaHoName": "1704호"
+        }
+      ],
+      "priceInfo": {
+        "publicPrices": [
+          {
+            "year": 2024,
+            "price": 397000000,
+            "comparePriceRate": 8.2
+          },
+          {
+            "year": 2023,
+            "price": 367000000,
+            "comparePriceRate": -23.7
+          },
+          {
+            "year": 2022,
+            "price": 481000000,
+            "comparePriceRate": 27.6
+          },
+          {
+            "year": 2021,
+            "price": 377000000,
+            "comparePriceRate": 25.2
+          },
+          {
+            "year": 2020,
+            "price": 301000000,
+            "comparePriceRate": 2
+          },
+          {
+            "year": 2019,
+            "price": 295000000,
+            "comparePriceRate": 10.9
+          },
+          {
+            "year": 2018,
+            "price": 266000000,
+            "comparePriceRate": 0
+          },
+          {
+            "year": 2017,
+            "price": 266000000,
+            "comparePriceRate": 0
+          },
+          {
+            "year": 2016,
+            "price": 266000000,
+            "comparePriceRate": 11.8
+          },
+          {
+            "year": 2015,
+            "price": 238000000,
+            "comparePriceRate": 5.3
+          },
+          {
+            "year": 2014,
+            "price": 226000000,
+            "comparePriceRate": 1.3
+          },
+          {
+            "year": 2013,
+            "price": 223000000,
+            "comparePriceRate": -10.8
+          },
+          {
+            "year": 2012,
+            "price": 250000000,
+            "comparePriceRate": 0
+          },
+          {
+            "year": 2011,
+            "price": 250000000,
+            "comparePriceRate": -2
+          },
+          {
+            "year": 2010,
+            "price": 255000000,
+            "comparePriceRate": 1.6
+          },
+          {
+            "year": 2009,
+            "price": 251000000,
+            "comparePriceRate": -16.3
+          },
+          {
+            "year": 2008,
+            "price": 300000000,
+            "comparePriceRate": -6.5
+          },
+          {
+            "year": 2007,
+            "price": 321000000,
+            "comparePriceRate": 51.4
+          },
+          {
+            "year": 2006,
+            "price": 212000000,
+            "comparePriceRate": 0
+          }
+        ],
+        "zigbangPrice": {
+          "areahoId": 9047351,
+          "trade": {
+            "price": 72000,
+            "pyeongPrice": 2254
+          },
+          "charter": {
+            "price": 45000,
+            "pyeongPrice": 1409
+          }
+        },
+        "hasRtPrices": true
+      }
+    },
+    "itemCatalog": {
+      "areaHoId": 9047351,
+      "tranType": "trade",
+      "depositMin": 69000,
+      "depositMax": 69000,
+      "rentMin": 0,
+      "rentMax": 0,
+      "floor": "24",
+      "itemCount": 1,
+      "items": [
+        {
+          "itemSource": "coalition",
+          "itemId": 166910,
+          "areaDanjiId": 5892,
+          "areaDanjiName": "동천마을동문굿모닝힐3차",
+          "areaDanjiDivision": "입주2년후",
+          "areaBuildingId": 192919,
+          "areaBuildingName": "302동",
+          "areaHoId": 9047351,
+          "itemType": "partner",
+          "tranType": "trade",
+          "deposit": 69000,
+          "rent": 0,
+          "moveinDate": "즉시입주가능",
+          "floor": "24",
+          "buildingFloor": 25,
+          "direction": "s",
+          "directionBase": "거실기준",
+          "roomCount": 3,
+          "bathroomCount": 2,
+          "sizeContractM2": 105.59,
+          "sizeM2": 84.72,
+          "notificationComment": "고객이 집 내놓기 한 매물",
+          "itemTitle": "동천역 도보10분 막힘없는 전망좋은 집",
+          "itemDescription": "수리.필요해요",
+          "effectivenessUpdatedAt": "2025-06-08T15:02:38+09:00",
+          "tags": [],
+          "imageUrls": [
+            "https://ic.zigbang.com/vp/coalition-realestate/image/customers/3516752/789089b279422c1bdd02399d3ddd7b6f2bc0687edcf3e3b0072174ae9707526b",
+            "https://ic.zigbang.com/vp/coalition-realestate/image/customers/3516752/ba5d309c6965e40716c6671b66c2c9f4f35c71d8df7a4ca733e63c4a09e4f623"
+          ],
+          "manageCost": {
+            "type": "unconfirmed",
+            "unconfirmedReason": "해당 매물은 고객이 관리비 내역을 확인 중입니다."
+          },
+          "zzimCount": 0,
+          "isActualItemChecked": true,
+          "agent": {
+            "agentType": "partners",
+            "userNo": 1251,
+            "name": "박재선",
+            "profileUrl": "https://ic.zigbang.com/vp/coalition-realestate/user/profile/danji/1251/31a1b2d74bf481b99d1d7821eb7cf21ac8edb037deb6cc1dab10ad41d244b69e.jpeg",
+            "phone": "01041042203",
+            "itemCount": 0,
+            "itemCountPerTranType": {
+              "charter": 0,
+              "rental": 0,
+              "trade": 0
+            }
+          },
+          "acceptedLocalAgents": [
+            {
+              "name": "삼성타운 공인중개사사무소",
+              "nsdiOfficeId": 33016,
+              "status": "영업중",
+              "distance": 0.28860112833507645,
+              "ownerName": "유현주",
+              "address": "경기도 용인시 수지구 동천로113번길 10 ,상가동 23호(동천동, 한빛마을래미안이스트팰리스2단지아파트)"
+            },
+            {
+              "name": "동문114 (031-261-7080)공인중개사사무소",
+              "nsdiOfficeId": 33033,
+              "status": "영업중",
+              "distance": 0.2832071357359477,
+              "ownerName": "이창수",
+              "address": "경기도 용인시 수지구 동천로 68 ,108호(동천동, 동천마을동문굿모닝힐5차아파트)"
+            }
+          ],
+          "roomTypeInfo": {
+            "danjiRoomTypeId": 34167,
+            "floorPlanImageUrl": "https://ic.zigbang.com/ic/floorplan/5892/34167/64abb934cfeb47feb90e276c5a8bb125.png",
+            "roomTypeTitle": {
+              "m2": "105",
+              "p": "32"
+            }
+          }
+        }
+      ],
+      "acceptedLocalItemId": 166910,
+      "acceptedLocalAgents": [
+        {
+          "name": "삼성타운 공인중개사사무소",
+          "nsdiOfficeId": 33016,
+          "status": "영업중",
+          "distance": 0.28860112833507645,
+          "ownerName": "유현주",
+          "address": "경기도 용인시 수지구 동천로113번길 10 ,상가동 23호(동천동, 한빛마을래미안이스트팰리스2단지아파트)"
+        },
+        {
+          "name": "동문114 (031-261-7080)공인중개사사무소",
+          "nsdiOfficeId": 33033,
+          "status": "영업중",
+          "distance": 0.2832071357359477,
+          "ownerName": "이창수",
+          "address": "경기도 용인시 수지구 동천로 68 ,108호(동천동, 동천마을동문굿모닝힐5차아파트)"
+        }
+      ]
+    }
+  },
+  "__N_SSP": true
+}

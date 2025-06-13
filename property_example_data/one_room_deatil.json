@@ -1,0 +1,311 @@
+{
+  "agent": {
+    "agentTitle": "하늘공인중개사사무소",
+    "agentAddress": "서울특별시 구로구 도림로 59 302동 205호(구로동, 두산아파트상가)",
+    "agentPhone": "028576859",
+    "agentIntro": "",
+    "agentUserType": "대표공인중개사",
+    "agentName": "윤은정",
+    "profileUrl": "https://resource.zigbang.com/profile/24810874/8b5a2fdf-c16b-401a-a417-b77cdd5ff1d3.jpg",
+    "agentUserNo": 24810874,
+    "hasOtherOpenItems": false
+  },
+  "realtor": {
+    "userNo": 24810874,
+    "profileUrl": "https://resource.zigbang.com/profile/24810874/8b5a2fdf-c16b-401a-a417-b77cdd5ff1d3.jpg",
+    "name": "윤은정",
+    "officeTitle": "하늘공인중개사사무소",
+    "officePhone": "028576859",
+    "phone": "01026074206",
+    "officeRegNumber": "11530-2024-00050",
+    "companyRegNumber": "2050617864",
+    "officeAddress": "서울특별시 구로구 도림로 59 302동 205호(구로동, 두산아파트상가)",
+    "email": "hanulroom2@naver.com",
+    "intro": "",
+    "status": "ACTIVE",
+    "local": {
+      "local1": "서울시",
+      "local2": "구로구",
+      "local3": "구로동"
+    },
+    "itemsCount": {
+      "oneroom": {
+        "전세": 0,
+        "월세": 20,
+        "매매": 0,
+        "total": 20
+      },
+      "officetel": {
+        "전세": 0,
+        "월세": 0,
+        "매매": 0,
+        "total": 0
+      },
+      "villa": {
+        "전세": 0,
+        "월세": 0,
+        "매매": 0,
+        "total": 0
+      },
+      "apt": {
+        "매매": 0,
+        "전세": 0,
+        "월세": 0,
+        "total": 0
+      }
+    },
+    "officeLocation": {
+      "lat": 37.48989939936741,
+      "lng": 126.888961869782
+    },
+    "tags": [],
+    "availableLanguages": [],
+    "inquiryAnswerable": {
+      "isNight": false,
+      "isDayOff": false
+    },
+    "stats": {
+      "activityScore": {
+        "inquiryAnswerCount": 38,
+        "inquiryCount": 38,
+        "inquiryAnswerRate": 100,
+        "inquiryAnswerAvgSeconds": 2200
+      },
+      "tags": [
+        {
+          "name": "최고",
+          "type": "inquiry_answer_rate"
+        },
+        {
+          "name": "상위50%",
+          "type": "inquiry_answer_time"
+        }
+      ]
+    },
+    "danjis": []
+  },
+  "agentUserNos": [],
+  "subways": [
+    {
+      "id": 205,
+      "name": "구로역",
+      "description": "1호선"
+    },
+    {
+      "id": 43,
+      "name": "신도림역",
+      "description": "1호선,2호선"
+    },
+    {
+      "id": 260,
+      "name": "구일역",
+      "description": "1호선"
+    }
+  ],
+  "tags": [
+    "추천"
+  ],
+  "item": {
+    "itemId": 45104253,
+    "salesType": "월세",
+    "serviceType": "원룸",
+    "images": [
+      "https://ic.zigbang.com/ic/items/45104253/1.jpg",
+      "https://ic.zigbang.com/ic/items/45104253/2.jpg",
+      "https://ic.zigbang.com/ic/items/45104253/3.jpg",
+      "https://ic.zigbang.com/ic/items/45104253/4.jpg",
+      "https://ic.zigbang.com/ic/items/45104253/5.jpg",
+      "https://ic.zigbang.com/ic/items/45104253/6.jpg"
+    ],
+    "imageThumbnail": "https://ic.zigbang.com/ic/items/45104253/1.jpg",
+    "price": {
+      "deposit": 300,
+      "rent": 35
+    },
+    "area": {
+      "전용면적M2": 18
+    },
+    "roomType": "오픈형원룸",
+    "title": "역1분 훌륭한 실내",
+    "description": "* 동일 가격대 최고의 집. 꼭 보러 오셔요.\n\n* 구로역 1분거리\n\n* 실내 완전 풀옵션\n\n* 세탁기, 냉장고, 에어컨, 수납장까지\n\n* 내부 정비 잘되어 청결한 집\n\n* NC, 나인스애비뉴 등 1분거리 이용\n\n* 주차X.애완동물X",
+    "status": "open",
+    "randomLocation": {
+      "lat": 37.5017615484672,
+      "lng": 126.883575931161
+    },
+    "location": {
+      "lat": 37.5017615484672,
+      "lng": 126.883575931161
+    },
+    "parkingAvailableText": "주차 불가능",
+    "elevator": false,
+    "roomDirection": "W",
+    "directionCriterion": "안방",
+    "moveinDate": "2025. 06. 13 이후 입주 가능",
+    "bjdCode": "1153010200",
+    "pnu": "1153010200105700120",
+    "floor": {
+      "allFloors": "3",
+      "floor": "2"
+    },
+    "options": [
+      "에어컨",
+      "냉장고",
+      "세탁기",
+      "인덕션",
+      "전자레인지",
+      "침대",
+      "옷장",
+      "신발장",
+      "싱크대"
+    ],
+    "manageCost": {
+      "amount": 5,
+      "includes": [
+        "수도료",
+        "인터넷사용료",
+        "일반(공용)관리비",
+        "기타관리비"
+      ],
+      "notIncludes": [
+        "전기료",
+        "가스사용료",
+        "TV사용료",
+        "난방비"
+      ]
+    },
+    "isPremium": true,
+    "isHomepage": false,
+    "hasUserPenalty": false,
+    "roomGubunCode": "01",
+    "viewCount": 0,
+    "updatedAt": "2025-06-07 13:08:13",
+    "approveDate": "19911014",
+    "bathroomCount": "1",
+    "residenceType": "단독주택",
+    "neighborhoods": {
+      "distributions": [
+        {
+          "companyName": "쿠팡",
+          "kinds": [
+            "로켓배송",
+            "로켓프레시"
+          ]
+        },
+        {
+          "companyName": "SSG",
+          "kinds": [
+            "새벽배송",
+            "쓱배송"
+          ]
+        },
+        {
+          "companyName": "마켓컬리",
+          "kinds": [
+            "샛별배송"
+          ]
+        },
+        {
+          "companyName": "배달의 민족",
+          "kinds": [
+            "배민1"
+          ]
+        },
+        {
+          "companyName": "요기요",
+          "kinds": [
+            "익스프레스"
+          ]
+        }
+      ],
+      "amenities": [
+        {
+          "title": "역세권",
+          "description": "역세권"
+        },
+        {
+          "title": "슬세권",
+          "description": "편리한 상권"
+        },
+        {
+          "title": "몰세권",
+          "description": "쇼핑몰"
+        },
+        {
+          "title": "공세권",
+          "description": "공원"
+        },
+        {
+          "title": "학세권",
+          "description": "학원가 근처"
+        }
+      ],
+      "nearbyPois": [
+        {
+          "exists": true,
+          "poiType": "지하철역",
+          "distance": 174,
+          "transport": "foot",
+          "timeTaken": 157
+        },
+        {
+          "exists": true,
+          "poiType": "세탁소",
+          "distance": 113,
+          "transport": "foot",
+          "timeTaken": 102
+        },
+        {
+          "exists": true,
+          "poiType": "카페",
+          "distance": 81,
+          "transport": "foot",
+          "timeTaken": 73
+        },
+        {
+          "exists": true,
+          "poiType": "약국",
+          "distance": 106,
+          "transport": "foot",
+          "timeTaken": 95
+        },
+        {
+          "exists": true,
+          "poiType": "대형마트",
+          "distance": 1236,
+          "transport": "car",
+          "timeTaken": 89
+        },
+        {
+          "exists": true,
+          "poiType": "편의점",
+          "distance": 277,
+          "transport": "foot",
+          "timeTaken": 250
+        },
+        {
+          "exists": true,
+          "poiType": "버스정류장",
+          "distance": 414,
+          "transport": "foot",
+          "timeTaken": 373
+        }
+      ]
+    },
+    "addressOrigin": {
+      "local1": "서울시",
+      "local2": "구로구",
+      "local3": "구로동",
+      "local4": "",
+      "fullText": "서울시 구로구 구로동",
+      "localText": "구로구 구로동"
+    },
+    "jibunAddress": "구로구 구로동 570-120",
+    "자동종료대상": false,
+    "상태확인At": "2025-06-07T04:08:07.000Z",
+    "itemBmType": "ZIGBANG",
+    "userNo": 24810874,
+    "nonCompliantBuilding": false,
+    "zikimInfo": {}
+  }
+}

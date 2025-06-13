@@ -1,0 +1,316 @@
+{
+  "agent": {
+    "agentTitle": "중앙공인중개사사무소",
+    "agentAddress": "경기도 용인시 수지구 풍덕천로148번길 9-3 ,102호(풍덕천동)",
+    "agentPhone": "0312648200",
+    "agentIntro": "안전한 물건만 중개해드리는 안심중개사예요^^\r\n저희 사무실을 찾아주셔서 감사드리고\r\n26년간 한곳에서 풍덕천동의 변천하는 과정을 지켜보며 저희 건물에서 고객님들을 위해서 좋은 물건과  소유주분께는 좋은 임차인분들을 연결해드리고 싶답니다~^^\r\n",
+    "agentUserType": "대표공인중개사",
+    "agentName": "허근숙",
+    "profileUrl": "https://resource.zigbang.com/profile/908685/02d9e9008b15f3296758c20c5f3417b26079c577.jpg",
+    "agentUserNo": 908685,
+    "hasOtherOpenItems": false
+  },
+  "realtor": {
+    "userNo": 908685,
+    "profileUrl": "https://resource.zigbang.com/profile/908685/02d9e9008b15f3296758c20c5f3417b26079c577.jpg",
+    "name": "허근숙",
+    "officeTitle": "중앙공인중개사사무소",
+    "officePhone": "0312648200",
+    "phone": "01053489495",
+    "officeRegNumber": "가3648-02-2732",
+    "companyRegNumber": "1420511602",
+    "officeAddress": "경기도 용인시 수지구 풍덕천로148번길 9-3 ,102호(풍덕천동)",
+    "email": "geunsuk54@hanmail.net",
+    "intro": "안전한 물건만 중개해드리는 안심중개사예요^^\r\n저희 사무실을 찾아주셔서 감사드리고\r\n26년간 한곳에서 풍덕천동의 변천하는 과정을 지켜보며 저희 건물에서 고객님들을 위해서 좋은 물건과  소유주분께는 좋은 임차인분들을 연결해드리고 싶답니다~^^\r\n",
+    "status": "ACTIVE",
+    "local": {
+      "local1": "경기도",
+      "local2": "용인시 수지구",
+      "local3": "풍덕천동"
+    },
+    "itemsCount": {
+      "oneroom": {
+        "전세": 0,
+        "월세": 5,
+        "매매": 0,
+        "total": 5
+      },
+      "officetel": {
+        "전세": 0,
+        "월세": 0,
+        "매매": 0,
+        "total": 0
+      },
+      "villa": {
+        "전세": 0,
+        "월세": 3,
+        "매매": 0,
+        "total": 3
+      },
+      "apt": {
+        "매매": 0,
+        "전세": 0,
+        "월세": 0,
+        "total": 0
+      }
+    },
+    "officeLocation": {
+      "lat": 37.3237327344612,
+      "lng": 127.098451371234
+    },
+    "tags": [
+      {
+        "name": "수지구청역",
+        "link": "/home/oneroom/subways/1065/items",
+        "type": "region"
+      }
+    ],
+    "availableLanguages": [],
+    "inquiryAnswerable": {
+      "isNight": false,
+      "isDayOff": false
+    },
+    "stats": {
+      "activityScore": {
+        "inquiryAnswerCount": 27,
+        "inquiryCount": 28,
+        "inquiryAnswerRate": 96,
+        "inquiryAnswerAvgSeconds": 2054
+      },
+      "tags": [
+        {
+          "name": "매우 우수",
+          "type": "inquiry_answer_rate"
+        },
+        {
+          "name": "상위50%",
+          "type": "inquiry_answer_time"
+        }
+      ]
+    },
+    "danjis": []
+  },
+  "agentUserNos": [],
+  "subways": [
+    {
+      "id": 1065,
+      "name": "수지구청역",
+      "description": "신분당선"
+    },
+    {
+      "id": 283,
+      "name": "죽전역",
+      "description": "수인분당선"
+    }
+  ],
+  "tags": [
+    "추천"
+  ],
+  "item": {
+    "itemId": 45107245,
+    "salesType": "월세",
+    "serviceType": "빌라",
+    "images": [
+      "https://ic.zigbang.com/ic/items/45107245/1.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/2.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/3.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/4.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/5.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/6.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/7.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/8.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/9.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/10.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/11.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/12.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/13.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/14.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/15.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/16.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/17.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/18.jpg",
+      "https://ic.zigbang.com/ic/items/45107245/19.jpg"
+    ],
+    "imageThumbnail": "https://ic.zigbang.com/ic/items/45107245/1.jpg",
+    "price": {
+      "deposit": 8000,
+      "rent": 35
+    },
+    "area": {
+      "전용면적M2": 59.5041
+    },
+    "roomType": "투룸",
+    "title": "수지구청역5분거리의 넓고 베란다있는 투룸",
+    "description": "수지구청역이 도보로 5분거리에 있는 거실도 넓고 괜찮은 투룸입니다^^ \n베란다도 있어 빨래말리기도 좋답니다^^\n2~3분거리의 대중교통 버스노선들도 다양하여\n교통도 편리하답니다^^\n편의시설(구청,은행,증권,신세계백화점,이마트,체육공원,병원,등등)도 도보로 3분~10분거리의 위치해 있어 살기편리하답니다^^\n전세 1억4천만원가능,1억/30도가능.단 대출은 안됩니다.\n애완동물은 사양합니다~^^",
+    "status": "open",
+    "randomLocation": {
+      "lat": 37.324127197265625,
+      "lng": 127.09873962402344
+    },
+    "location": {
+      "lat": 37.324127197265625,
+      "lng": 127.09873962402344
+    },
+    "parkingAvailableText": "주차 가능",
+    "parkingCountText": "총 주차 대수 0.05대",
+    "elevator": false,
+    "roomDirection": "W",
+    "directionCriterion": "안방",
+    "moveinDate": "2025. 06. 14 이후 입주 가능",
+    "bjdCode": "4146510100",
+    "pnu": "4146510100107280005",
+    "floor": {
+      "allFloors": "3",
+      "floor": "1"
+    },
+    "options": [],
+    "manageCost": {
+      "amount": 3,
+      "includes": [
+        "일반(공용)관리비"
+      ],
+      "notIncludes": [
+        "전기료",
+        "가스사용료",
+        "수도료",
+        "인터넷사용료",
+        "TV사용료",
+        "난방비",
+        "기타관리비"
+      ]
+    },
+    "isPremium": true,
+    "isHomepage": false,
+    "hasUserPenalty": false,
+    "roomGubunCode": "04",
+    "viewCount": 0,
+    "updatedAt": "2025-06-07 16:19:56",
+    "approveDate": "1997.7.5.",
+    "bathroomCount": "1",
+    "residenceType": "단독주택",
+    "neighborhoods": {
+      "distributions": [
+        {
+          "companyName": "쿠팡",
+          "kinds": [
+            "로켓배송",
+            "로켓프레시"
+          ]
+        },
+        {
+          "companyName": "SSG",
+          "kinds": [
+            "새벽배송",
+            "쓱배송"
+          ]
+        },
+        {
+          "companyName": "마켓컬리",
+          "kinds": [
+            "샛별배송"
+          ]
+        },
+        {
+          "companyName": "배달의 민족",
+          "kinds": [
+            "배민1"
+          ]
+        },
+        {
+          "companyName": "요기요",
+          "kinds": [
+            "익스프레스"
+          ]
+        }
+      ],
+      "amenities": [
+        {
+          "title": "역세권",
+          "description": "역세권"
+        },
+        {
+          "title": "슬세권",
+          "description": "편리한 상권"
+        },
+        {
+          "title": "몰세권",
+          "description": "쇼핑몰"
+        },
+        {
+          "title": "공세권",
+          "description": "공원"
+        },
+        {
+          "title": "학세권",
+          "description": "학원가 근처"
+        }
+      ],
+      "nearbyPois": [
+        {
+          "exists": true,
+          "poiType": "지하철역",
+          "distance": 403,
+          "transport": "foot",
+          "timeTaken": 363
+        },
+        {
+          "exists": true,
+          "poiType": "세탁소",
+          "distance": 187,
+          "transport": "foot",
+          "timeTaken": 168
+        },
+        {
+          "exists": true,
+          "poiType": "카페",
+          "distance": 50,
+          "transport": "foot",
+          "timeTaken": 45
+        },
+        {
+          "exists": true,
+          "poiType": "약국",
+          "distance": 106,
+          "transport": "foot",
+          "timeTaken": 95
+        },
+        {
+          "exists": true,
+          "poiType": "대형마트",
+          "distance": 335,
+          "transport": "foot",
+          "timeTaken": 302
+        },
+        {
+          "exists": true,
+          "poiType": "편의점",
+          "distance": 35,
+          "transport": "foot",
+          "timeTaken": 32
+        },
+        {
+          "exists": true,
+          "poiType": "버스정류장",
+          "distance": 127,
+          "transport": "foot",
+          "timeTaken": 114
+        }
+      ]
+    },
+    "addressOrigin": {
+      "local1": "경기도",
+      "local2": "용인시 수지구",
+      "local3": "풍덕천동",
+      "local4": "",
+      "fullText": "경기도 용인시 수지구 풍덕천동",
+      "localText": "용인시 수지구 풍덕천동"
+    },
+    "jibunAddress": "용인시 수지구 풍덕천동 728-5",
+    "자동종료대상": false,
+    "상태확인At": "2025-06-07T07:18:57.000Z",
+    "itemBmType": "ZIGBANG",
+    "userNo": 908685,
+    "nonCompliantBuilding": false,
+    "zikimInfo": {}
+  }
+}
